@@ -3,7 +3,9 @@
   
 - path autogen/notebook/agentchat_agentoptimizer.ipynb
 * P0: 收集game for psy的前后端，后端统一换成 AutoGen 前端统一更换成steamlit
-      * 目前计划有 沙箱游戏，音乐，角色扮演（hard），箭头向上疗法
+  * 目前计划有 沙箱游戏，音乐（深呼吸/自我修复），角色扮演（hard），箭头向上疗法，量表，
+* P0: 尽可能快的实现复现工作并部署Ollama
+* P1: 前端demo
 <a name="readme-top"></a>
 
 [![PyPI version](https://badge.fury.io/py/pyautogen.svg)](https://badge.fury.io/py/pyautogen)
