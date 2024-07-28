@@ -1,4 +1,6 @@
-TODO： 快速复现 Agent-learning 并制作 TOOL for psy
+- TODO：
+      - 快速复现 Agent-learning 并制作 TOOL for psy
+- path autogen/notebook/agentchat_agentoptimizer.ipynb
 
 <a name="readme-top"></a>
 
