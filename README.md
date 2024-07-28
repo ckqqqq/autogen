@@ -1,7 +1,9 @@
 - TODO：
       - 快速复现 Agent-learning 并制作 TOOL for psy
+  
 - path autogen/notebook/agentchat_agentoptimizer.ipynb
-
+* P0: 收集game for psy的前后端，后端统一换成 AutoGen 前端统一更换成steamlit
+      * 目前计划有 沙箱游戏，音乐，角色扮演（hard），箭头向上疗法
 <a name="readme-top"></a>
 
 [![PyPI version](https://badge.fury.io/py/pyautogen.svg)](https://badge.fury.io/py/pyautogen)
